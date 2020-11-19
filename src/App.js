@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hi there!
           I have switched to feture branch
+          This code was reviewed
         </p>
         <a
           className="App-link"
